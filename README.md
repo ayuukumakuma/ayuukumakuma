@@ -1,4 +1,4 @@
-### Hi there 👋
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ayuu0721)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **Ayuu0721/Ayuu0721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
