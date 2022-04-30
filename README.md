@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayuukumakuma" alt="ayuukumakuma" /></a> </p>
 
-- 🔭 I’m currently working on [KUKU](https://github.com/ayuukumakuma/KUKU)
-<p align="left">
-</p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayuukumakuma&show_icons=true&locale=en&layout=compact" alt="ayuukumakuma" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayuukumakuma&show_icons=true&locale=en" alt="ayuukumakuma" /></p>
