@@ -20,4 +20,4 @@
 </picture>
 
 ## My Repo
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ayuukumakuma&repo=dotfiles)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=ayuukumakuma&repo=dotfiles)](https://github.com/ayuukumakuma/dotfiles)
