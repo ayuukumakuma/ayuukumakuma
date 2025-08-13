@@ -13,5 +13,11 @@
 
 [![](https://github-readme-activity-graph.vercel.app/graph?username=ayuukumakuma&theme=github&bg_color=F6F8FA&color=434D58&title_color=434D58&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayuukumakuma/ayuukumakuma/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayuukumakuma/ayuukumakuma/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ayuukumakuma/ayuukumakuma/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## My Repo
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ayuukumakuma&repo=dotfiles)](https://github.com/anuraghazra/github-readme-stats)
