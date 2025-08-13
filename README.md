@@ -1,3 +1,7 @@
+[![](https://typograssy.deno.dev/api?text=Hello!%20I'm%20Ayuu%3B%29&comment=)](https://github.com/kawarimidoll/typograssy)
+
+## My Profile
+
 ![](https://komarev.com/ghpvc/?username=ayuukumakuma&style=for-the-badge&color=lightgrey)
 
 ![](https://github-profile-trophy.vercel.app/?username=ayuukumakuma&column=5)
@@ -8,3 +12,6 @@
 </p>
 
 [![](https://github-readme-activity-graph.vercel.app/graph?username=ayuukumakuma&theme=github&bg_color=F6F8FA&color=434D58&title_color=434D58&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## My Repo
+[![](https://github-readme-stats.vercel.app/api/pin/?username=ayuukumakuma&repo=dotfiles)](https://github.com/anuraghazra/github-readme-stats)
